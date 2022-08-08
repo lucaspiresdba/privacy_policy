@@ -1,5 +1,5 @@
-<h1><b>Tibia Info Tracke: Privacy policy</h1></b>
-Welcome to the Shake Alarm Clock app for Android!
+<h1><b>Tibia Info Tracker: Privacy Policy</h1></b>
+Welcome to the Tibia Info Tracker app for Android!
 
 This is an Android app developed by Lucas Pires. The app is also available on Google Play.
 
